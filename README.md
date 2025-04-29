@@ -40,3 +40,5 @@ tampilan hasil mahasiswa
 TUGAS
 
 ![Screenshot 2025-04-29 200645](https://github.com/user-attachments/assets/cd7810cd-e75c-42e6-8fc1-fbf964588ba2)
+
+![Screenshot 2025-04-29 205710](https://github.com/user-attachments/assets/dee04c63-c1f8-4bea-a7b9-e5d376a4eb76)
